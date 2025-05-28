@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298619652724",
+    "project_id": "brademoproj1",
+    "storage_bucket": "brademoproj1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298619652724:android:1c8948598146a64f16df21",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZD6x6LcazV55_ru_m-6cVKthNzfZ4vw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
