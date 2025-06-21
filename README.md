@@ -1,6 +1,6 @@
 # firebase_flutter
 
-A new Flutter project.
+Projeto feito após estudos de como realizar uma autenticação de Login utilizando Flutter + firebase
 
 Para rodar:
 
